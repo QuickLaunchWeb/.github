@@ -5,14 +5,14 @@
 
 We specialize in crafting lightweight, fast, and functional websites tailored for utility, small businesses, personal branding, and creative hobbies. Whether you're an artist showcasing your work, a niche entrepreneur launching a service, or just someone with a passion project — we make it easy to get online with a beautiful, responsive site built to serve a purpose.
 
-From QR tools to art portfolios, every micro site we build is designed to be simple, useful, and easy to maintain — without sacrificing quality.
+Every micro site we build is designed to be simple, useful, and easy to maintain — without sacrificing quality.
 
 ## Our Services
 
 | Service | Price | Description |
 |---------|-------|-------------|
-| Partner Microsite | $500 | Collaborative microsite with split AdSense revenue for niche idea sites |
-| Full Website | $1000 | Complete website solution with all features and functionality |
+| Partnered Microsite | $500 | Collaborative microsite with split AdSense revenue for niche idea sites. We maintain the source code. |
+| Dedicated Website | $1000 | Complete website solution with all features and functionality. You get the source code zip file as well. |
 | Annual Maintenance | $100/year | Ongoing hosting, domain management, and technical support |
 
 ## Why Choose Us?
