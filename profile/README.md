@@ -12,8 +12,8 @@ Every micro site we build is designed to be simple, useful, and easy to maintain
 | Service | Price | Description |
 |---------|-------|-------------|
 | Partnered Microsite | $500 | Collaborative microsite with 50% split AdSense revenue(or pitch how we can 50% split revenue share in your idea) for niche sites. We maintain the source code and will manage domain and hosting. |
-| Dedicated Website | $1000 | Your own microsite solution with all features and functionality, no revenue share. You get the source code zip file as well to use as you please. We can still maitain the source code and domain and hosting if you choose. |
-| Annual ongoing Maintenance | $100/year | Ongoing hosting, domain management, and technical support. Charged the following year after microsite creation and ongoing subsequent future years you would like us to continue to maintain the website. |
+| Dedicated Microsite | $1000 | Your own microsite solution, no revenue share. You get the website source code zip file as well to use as you please. We can still maintain the source code and domain and hosting if you choose. |
+| Annual ongoing Maintenance | $100/year | Ongoing hosting, domain management, and minor technical support. Charged the following year after microsite creation and ongoing subsequent future years you would like us to continue to maintain the website. Applies to all dedicated microsites we manage as well as partnered microsites where the revenue split is earning Quick Launch Web less than $1000 on an annual basis. |
 
 ## Why Choose Us?
 
