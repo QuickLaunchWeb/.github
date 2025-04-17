@@ -27,7 +27,7 @@ Every micro site we build is designed to be simple, useful, and easy to maintain
 For larger projects beyond simple microsites, please contact us to discuss custom rates or potential partnerships. We're always open to exciting collaborations that make sense for both parties.
 
 
-## 🔧 Tech Tool site Example Works
+## 🔧 Tech Tool Site Example Works
 
 - **QR Code Generator** – [QR Quick Gen](https://qrquickgen.com/)
 - **Base64 Encoder/Decoder** – [Base64 Toolbox](https://base64toolbox.com/)
