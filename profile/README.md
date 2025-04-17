@@ -42,4 +42,4 @@ For larger projects beyond simple microsites, please contact us to discuss custo
 
 ## Get in Touch
 
-Ready to launch your web presence? [Contact us](mailto:jeremyjustus0916@gmail.com) today to get started!
+Ready to launch your web presence? [Contact us](mailto:contact@quicklaunchweb.com) today to get started!
