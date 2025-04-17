@@ -11,8 +11,8 @@ Every micro site we build is designed to be simple, useful, and easy to maintain
 
 | Service | Price | Description |
 |---------|-------|-------------|
-| Partnered Microsite | $500 | Collaborative microsite with 50% split AdSense revenue(or pitch how we can 50% split revenue share in your idea) for niche sites. We maintain the source code and will manage domain and hosting. |
-| Dedicated Microsite | $1000 | Your own microsite solution, no revenue share. You get the website source code zip file as well to use as you please. We can still maintain the source code and domain and hosting if you choose. |
+| Partnered Microsite | $1000 | Collaborative microsite with 50% split AdSense revenue(or pitch how we can 50% split revenue share in your idea) for niche sites. We maintain the source code and will manage domain and hosting. |
+| Dedicated Microsite | $2000 | Your own microsite solution, no revenue share. You get the website source code zip file as well to use as you please. We can still maintain the source code and domain and hosting if you choose. |
 | Annual ongoing Maintenance | $100/year | Ongoing hosting, domain management, and minor technical support. Charged the following year after microsite creation and ongoing subsequent future years you would like us to continue to maintain the website. Applies to all dedicated microsites we manage as well as partnered microsites where the revenue split is earning Quick Launch Web less than $1000 on an annual basis. |
 
 ## Why Choose Us?
@@ -25,6 +25,20 @@ Every micro site we build is designed to be simple, useful, and easy to maintain
 ## Need Something More Complex?
 
 For larger projects beyond simple microsites, please contact us to discuss custom rates or potential partnerships. We're always open to exciting collaborations that make sense for both parties.
+
+
+## 🔧 Tech Tool site Example Works
+
+- **QR Code Generator** – [QR Quick Gen](https://qrquickgen.com/)
+- **Base64 Encoder/Decoder** – [Base64 Toolbox](https://base64toolbox.com/)
+- **JWT Debugger & Tools** – [JWT Toolbox](https://jwttoolbox.com/)
+- **String Manipulation Suite** – [String Tools HQ](https://stringtoolshq.com/)
+- **X.509 Certificate Decoder** – [x509CertDecoder](https://x509certdecoder.com/)
+
+## 🎨 Creativity Site Example Works
+
+- **Hannah Longley Art** – [hannahlongley.art](https://hannahlongley.art/)
+
 
 ## Get in Touch
 
