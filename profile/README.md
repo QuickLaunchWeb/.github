@@ -3,7 +3,7 @@
 
 <img src="img/QuickLaunchWeb.png" alt="Quick Launch Web Logo" width="300"/>
 
-## Ferrum Edge - Rust Proxy/API Edge/AI Edge layer built for performance and flexibility
+## Ferrum Edge - Rust Proxy / API Edge / AI Edge layer built for performance and flexibility
 
 - **Ferrum Edge** – [Ferrum Edge](https://ferrumedge.com/)
 
